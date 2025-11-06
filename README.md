@@ -3,14 +3,14 @@
 ### 🌟 A passionate Software Engineering student from Morocco 🇲🇦
 
 - 🎓 Studying **Advanced Software Engineering for Digital Services** at **INPT Rabat**
-- - 💻 Specializing in **backend Development** 
+- - 💻 Specializing in **Backend Development** 
 - 🔍 Passionate about **Problem-Solving** and building meaningful projects
 - 🌱 Currently exploring **Microservices Architecture, Cloud Technologies & DevOps**
 - 📍 Based in Rabat, Morocco
 
 ---
 <div align="center">
-  <img src="./assets/procedural-generation-11379_256.gif" width="30px"/>
+  <img src="./assets/studio ghibli study GIF.gif" width="400px"/>
 </div>
 ---
 
