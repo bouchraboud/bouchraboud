@@ -1,11 +1,17 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm [Boudiouane bouchra]
 
 ### 🌟 A passionate Software Engineering student from Morocco 🇲🇦
 
 - 🎓 Studying **Advanced Software Engineering for Digital Services** at **INPT Rabat**
+- - 💻 Specializing in **backend Development** 
 - 🔍 Passionate about **Problem-Solving** and building meaningful projects
+- 🌱 Currently exploring **Microservices Architecture, Cloud Technologies & DevOps**
 - 📍 Based in Rabat, Morocco
 
+---
+<div align="center">
+  <img src="./assets/procedural-generation-11379_256.gif" width="30px"/>
+</div>
 ---
 
 ## 🌐 Connect with Me
@@ -63,14 +69,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouchraboud&theme=radical&layout=compact&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouchraboud&theme=radical&hide_border=true)
 
 </div>
 
 
 ---
-
-## 🌱 Currently
-
-- 📖 Final year student at **INPT Rabat**
-- 💼 Looking for **PFE internship opportunities** in software engineering
