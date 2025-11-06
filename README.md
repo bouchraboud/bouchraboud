@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Boudiouane bouchra]
+# Hi 👋, I'm Boudiouane bouchra
 
 ### 🌟 A passionate Software Engineering student from Morocco 🇲🇦
 
